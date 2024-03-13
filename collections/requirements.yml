@@ -1,0 +1,5 @@
+---
+collections:
+  - name: https://github.com/ellery-tsai/eds.example.git
+    type: git
+    version: master
